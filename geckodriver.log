@@ -1,0 +1,1702 @@
+1649620807993	geckodriver	INFO	Listening on 127.0.0.1:56018
+1649620810868	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56019" "-no-remote" "-profile" "C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofileccCCIv"
+1649620811427	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofileccCCIv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56019/devtools/browser/2a8f31cb-8ec3-455b-b5de-5c043a6b4784
+1649620814247	Marionette	INFO	Listening on port 56024
+1649620814591	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://diga.bfarm.de/assets/app-3eadbc79c1a0c449b58d242c78295f50.js, line 7358: unreachable code after return statement
+1649621416020	Marionette	INFO	Stopped listening on port 56024
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+ NotFoundError("Could not open the file at C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofilenGFznC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58734/devtools/browser/79da378d-a3e9-42de-a172-9d3bcb643276
+1649621193681	Marionette	INFO	Listening on port 58739
+1649621194351	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649621197754	Marionette	INFO	Stopped listening on port 58739
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1649621357556	geckodriver	INFO	Listening on 127.0.0.1:58811
+1649621360608	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58812" "-no-remote" "-profile" "C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofilenDI5km"
+1649621361096	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofilenDI5km\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58812/devtools/browser/99c67f88-27bf-459a-807c-2c18660b964c
+1649621365034	Marionette	INFO	Listening on port 58817
+1649621365406	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649621420735	Marionette	INFO	Stopped listening on port 58817
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1649654163700	geckodriver	INFO	Listening on 127.0.0.1:50546
+1649654166800	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50547" "-no-remote" "-profile" "C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofile5HEYV8"
+1649654167467	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofile5HEYV8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50547/devtools/browser/8d58ea08-c934-4240-87fc-d4c379eb4b77
+1649654171497	Marionette	INFO	Listening on port 50552
+1649654171640	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649656583869	Marionette	INFO	Stopped listening on port 50552
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+ NotFoundError("Could not open the file at C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofileKgliCS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50596/devtools/browser/30ff0b40-e3ab-46e0-a1a4-67a72e713dee
+1649654191995	Marionette	INFO	Listening on port 50602
+1649654192293	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://diga.bfarm.de/assets/vendor-39be17416b06e39ce5998c081a6ba068.js, line 6045: unreachable code after return statement
+1649655961759	Marionette	INFO	Stopped listening on port 50602
+[Parent 18360, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+655317236	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofilec4tbOF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50803/devtools/browser/4ad06b05-41bb-4b04-a67b-f305b93bad91
+1649655319990	Marionette	INFO	Listening on port 50808
+1649655320431	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649655323222	Marionette	INFO	Stopped listening on port 50808
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1649656124353	geckodriver	INFO	Listening on 127.0.0.1:50933
+1649656127441	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50934" "-no-remote" "-profile" "C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofileWsp4ww"
+1649656128071	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofileWsp4ww\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50934/devtools/browser/7af092d0-ceee-4b20-a33a-de2694703d33
+1649656130865	Marionette	INFO	Listening on port 50939
+1649656131130	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://diga.bfarm.de/assets/vendor-39be17416b06e39ce5998c081a6ba068.js, line 6045: unreachable code after return statement
+1649656571711	Marionette	INFO	Stopped listening on port 50939
+9656234724	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50996" "-no-remote" "-profile" "C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofilevMBnS2"
+1649656235213	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofilevMBnS2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50996/devtools/browser/ae6deede-571f-4e41-bf7f-1ec18d1d8d43
+1649656238081	Marionette	INFO	Listening on port 51001
+1649656238452	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://diga.bfarm.de/assets/vendor-39be17416b06e39ce5998c081a6ba068.js, line 6045: unreachable code after return statement
+1649656581305	Marionette	INFO	Stopped listening on port 51001
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "51058" "-no-remote" "-profile" "C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofileni7gIV"
+1649656342024	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofileni7gIV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51058/devtools/browser/73ec13e0-1984-409d-9d18-f2cc70c9cb7c
+1649656345079	Marionette	INFO	Listening on port 51063
+1649656345607	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://diga.bfarm.de/assets/vendor-39be17416b06e39ce5998c081a6ba068.js, line 6045: unreachable code after return statement
+1649656580827	Marionette	INFO	Stopped listening on port 51063
+[Parent 3964, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+FO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofileACxcgn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51117/devtools/browser/a9043c95-ec6d-4b10-9ba9-d845174a5c8a
+1649656409226	Marionette	INFO	Listening on port 51125
+1649656409262	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://diga.bfarm.de/assets/vendor-39be17416b06e39ce5998c081a6ba068.js, line 6045: unreachable code after return statement
+1649656578412	Marionette	INFO	Stopped listening on port 51125
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "51174" "-no-remote" "-profile" "C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofileUelNnf"
+1649656418644	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofileUelNnf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51174/devtools/browser/d181c381-941d-4202-9730-057411dc1609
+1649656421585	Marionette	INFO	Listening on port 51181
+1649656421873	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://diga.bfarm.de/assets/vendor-39be17416b06e39ce5998c081a6ba068.js, line 6045: unreachable code after return statement
+1649656577728	Marionette	INFO	Stopped listening on port 51181
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "51229" "-no-remote" "-profile" "C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofilecA0xwH"
+1649656431205	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofilecA0xwH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51229/devtools/browser/b91ded5e-1a94-4000-952e-bb521c0d68d5
+1649656433890	Marionette	INFO	Listening on port 51234
+1649656433953	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://diga.bfarm.de/assets/vendor-39be17416b06e39ce5998c081a6ba068.js, line 6045: unreachable code after return statement
+1649656576916	Marionette	INFO	Stopped listening on port 51234
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "51282" "-no-remote" "-profile" "C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofileHmIXi6"
+1649656443241	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofileHmIXi6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51282/devtools/browser/c4aa884a-283f-4330-ac6f-4746c0a64d77
+1649656445886	Marionette	INFO	Listening on port 51287
+1649656446000	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://diga.bfarm.de/assets/vendor-39be17416b06e39ce5998c081a6ba068.js, line 6045: unreachable code after return statement
+1649656575267	Marionette	INFO	Stopped listening on port 51287
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "51335" "-no-remote" "-profile" "C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofilellJ2bm"
+1649656455336	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofilellJ2bm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51335/devtools/browser/be36f0d6-9203-4144-a800-2df2a2d28e27
+1649656459066	Marionette	INFO	Listening on port 51340
+1649656459125	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://diga.bfarm.de/assets/vendor-39be17416b06e39ce5998c081a6ba068.js, line 6045: unreachable code after return statement
+1649656576008	Marionette	INFO	Stopped listening on port 51340
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "51390" "-no-remote" "-profile" "C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofile91iKO9"
+1649656469378	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofile91iKO9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51390/devtools/browser/6a4e6c7d-6ae6-48df-b92f-070ce1a56b53
+1649656473673	Marionette	INFO	Listening on port 51398
+1649656474091	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://diga.bfarm.de/assets/vendor-39be17416b06e39ce5998c081a6ba068.js, line 6045: unreachable code after return statement
+1649656574297	Marionette	INFO	Stopped listening on port 51398
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "51449" "-no-remote" "-profile" "C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofileNmPb06"
+1649656483763	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofileNmPb06\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51449/devtools/browser/d0fc1788-18c2-4955-b711-63a737a6e5fe
+1649656486808	Marionette	INFO	Listening on port 51457
+1649656487321	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://diga.bfarm.de/assets/vendor-39be17416b06e39ce5998c081a6ba068.js, line 6045: unreachable code after return statement
+1649656573371	Marionette	INFO	Stopped listening on port 51457
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1649659178763	geckodriver	INFO	Listening on 127.0.0.1:51912
+1649659181870	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51913" "-no-remote" "-profile" "C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofileysuKCy"
+1649659182490	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofileysuKCy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51913/devtools/browser/91e988dc-c696-4a8b-b20a-a2a2cc08972d
+1649659185252	Marionette	INFO	Listening on port 51918
+1649659185572	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://diga.bfarm.de/assets/vendor-39be17416b06e39ce5998c081a6ba068.js, line 6045: unreachable code after return statement
+1649669603468	Marionette	INFO	Stopped listening on port 51918
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel error: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\gmult\AppData\Local\Temp\rust_mozprofileysuKCy\protections.sqlite
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+ers\\gmult\\AppData\\Local\\Temp\\rust_mozprofileD2MYJq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51968/devtools/browser/be7bef44-316e-40f9-8e1c-d7d10b12fa3c
+1649659197637	Marionette	INFO	Listening on port 51974
+1649659197864	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://diga.bfarm.de/assets/vendor-39be17416b06e39ce5998c081a6ba068.js, line 6045: unreachable code after return statement
+1649669603393	Marionette	INFO	Stopped listening on port 51974
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+p\\rust_mozprofileZ8NHCM"
+1649659207477	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofileZ8NHCM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52022/devtools/browser/5c32cd63-13e9-4cf3-9367-18d201f6e002
+1649659210701	Marionette	INFO	Listening on port 52027
+1649659211210	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://diga.bfarm.de/assets/vendor-39be17416b06e39ce5998c081a6ba068.js, line 6045: unreachable code after return statement
+1649669598986	Marionette	INFO	Stopped listening on port 52027
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\gmult\AppData\Local\Temp\rust_mozprofileZ8NHCM\protections.sqlite
+ers\\gmult\\AppData\\Local\\Temp\\rust_mozprofile5UTazH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52077/devtools/browser/ef6309dc-5405-495e-82dc-6764f7f68304
+1649659223006	Marionette	INFO	Listening on port 52083
+1649659223420	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://diga.bfarm.de/assets/vendor-39be17416b06e39ce5998c081a6ba068.js, line 6045: unreachable code after return statement
+1649669601128	Marionette	INFO	Stopped listening on port 52083
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+p\\rust_mozprofilefXB7Vo"
+1649659233003	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofilefXB7Vo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52132/devtools/browser/0dd558d0-b567-4bc1-a866-a0dfc8b52354
+1649659235356	Marionette	INFO	Listening on port 52137
+1649659235751	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://diga.bfarm.de/assets/vendor-39be17416b06e39ce5998c081a6ba068.js, line 6045: unreachable code after return statement
+1649669601794	Marionette	INFO	Stopped listening on port 52137
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\gmult\AppData\Local\Temp\rust_mozprofilefXB7Vo\protections.sqlite
+ers\\gmult\\AppData\\Local\\Temp\\rust_mozprofilestNoxb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52185/devtools/browser/1cf5fddb-d5de-454c-8f89-17d3b098d1cc
+1649659247915	Marionette	INFO	Listening on port 52193
+1649659247970	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://diga.bfarm.de/assets/vendor-39be17416b06e39ce5998c081a6ba068.js, line 6045: unreachable code after return statement
+1649669603718	Marionette	INFO	Stopped listening on port 52193
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+irefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52240" "-no-remote" "-profile" "C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofilei5z2lB"
+1649659257369	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofilei5z2lB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52240/devtools/browser/15c1bd7a-cbca-4ccf-9843-545426965322
+1649659259791	Marionette	INFO	Listening on port 52246
+1649659260087	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://diga.bfarm.de/assets/vendor-39be17416b06e39ce5998c081a6ba068.js, line 6045: unreachable code after return statement
+1649669601796	Marionette	INFO	Stopped listening on port 52246
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\gmult\AppData\Local\Temp\rust_mozprofilei5z2lB\protections.sqlite
+ers\\gmult\\AppData\\Local\\Temp\\rust_mozprofilezSLSMP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52295/devtools/browser/56cf6977-ae1e-43ab-8558-de34cfddc470
+1649659273667	Marionette	INFO	Listening on port 52300
+1649659273941	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://diga.bfarm.de/assets/vendor-39be17416b06e39ce5998c081a6ba068.js, line 6045: unreachable code after return statement
+1649669606327	Marionette	INFO	Stopped listening on port 52300
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+f-a62d-b6cafecf00e7
+1649659288542	Marionette	INFO	Listening on port 52358
+1649659288755	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://diga.bfarm.de/assets/vendor-39be17416b06e39ce5998c081a6ba068.js, line 6045: unreachable code after return statement
+1649669603700	Marionette	INFO	Stopped listening on port 52358
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+_mozprofilezxKrtx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52408/devtools/browser/ce091545-1431-4752-81e6-419ea2c07d27
+1649659305765	Marionette	INFO	Listening on port 52413
+1649659305884	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://diga.bfarm.de/assets/vendor-39be17416b06e39ce5998c081a6ba068.js, line 6045: unreachable code after return statement
+1649669603604	Marionette	INFO	Stopped listening on port 52413
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\gmult\AppData\Local\Temp\rust_mozprofilezxKrtx\protections.sqlite
+ers\\gmult\\AppData\\Local\\Temp\\rust_mozprofileRqCLdU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52465/devtools/browser/0bee95fd-1413-4641-ba42-aa537e9b9172
+1649659324186	Marionette	INFO	Listening on port 52470
+1649659324237	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://diga.bfarm.de/assets/vendor-39be17416b06e39ce5998c081a6ba068.js, line 6045: unreachable code after return statement
+1649669602687	Marionette	INFO	Stopped listening on port 52470
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofilebLX3pX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52539/devtools/browser/9e15e0af-e2e0-4c9e-a2e6-eb72f0303146
+1649659340370	Marionette	INFO	Listening on port 52544
+1649659340542	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://diga.bfarm.de/assets/vendor-39be17416b06e39ce5998c081a6ba068.js, line 6045: unreachable code after return statement
+1649669603434	Marionette	INFO	Stopped listening on port 52544
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+_mozprofilefhTvlY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52597/devtools/browser/34bf0965-9486-44ce-94d4-5041dabebf3f
+1649659354778	Marionette	INFO	Listening on port 52602
+1649659355246	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://diga.bfarm.de/assets/vendor-39be17416b06e39ce5998c081a6ba068.js, line 6045: unreachable code after return statement
+1649669604923	Marionette	INFO	Stopped listening on port 52602
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+_mozprofile0qcLoM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52651/devtools/browser/ad1aced8-c937-4fcf-9fdc-a79cae1250c4
+1649659370490	Marionette	INFO	Listening on port 52659
+1649659371019	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://diga.bfarm.de/assets/vendor-39be17416b06e39ce5998c081a6ba068.js, line 6045: unreachable code after return statement
+1649669603359	Marionette	INFO	Stopped listening on port 52659
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+p\\rust_mozprofilesyBJCT"
+1649659383443	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofilesyBJCT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52709/devtools/browser/261d5156-567c-44d9-b37b-22a5f9a0b665
+1649659387617	Marionette	INFO	Listening on port 52714
+1649659387801	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://diga.bfarm.de/assets/vendor-39be17416b06e39ce5998c081a6ba068.js, line 6045: unreachable code after return statement
+1649669604473	Marionette	INFO	Stopped listening on port 52714
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+ole.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofileBactnF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52768/devtools/browser/077072e0-0773-4617-9015-6601181bd831
+1649659402217	Marionette	INFO	Listening on port 52773
+1649659402255	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://diga.bfarm.de/assets/vendor-39be17416b06e39ce5998c081a6ba068.js, line 6045: unreachable code after return statement
+1649669603082	Marionette	INFO	Stopped listening on port 52773
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\gmult\AppData\Local\Temp\rust_mozprofileBactnF\protections.sqlite
+ers\\gmult\\AppData\\Local\\Temp\\rust_mozprofileYjBZuj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52825/devtools/browser/61247b9d-ead7-4b10-9b1e-1e02d2bf5c99
+1649659420741	Marionette	INFO	Listening on port 52833
+1649659420990	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://diga.bfarm.de/assets/vendor-39be17416b06e39ce5998c081a6ba068.js, line 6045: unreachable code after return statement
+1649669600620	Marionette	INFO	Stopped listening on port 52833
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+c3367
+1649659437417	Marionette	INFO	Listening on port 52890
+1649659437695	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://diga.bfarm.de/assets/vendor-39be17416b06e39ce5998c081a6ba068.js, line 6045: unreachable code after return statement
+1649669601243	Marionette	INFO	Stopped listening on port 52890
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 29652, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+ file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofile6Puw3f\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52940/devtools/browser/afa46789-7074-467a-a360-b0570e7ae1c5
+1649659453308	Marionette	INFO	Listening on port 52948
+1649659453588	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://diga.bfarm.de/assets/vendor-39be17416b06e39ce5998c081a6ba068.js, line 6045: unreachable code after return statement
+1649669603816	Marionette	INFO	Stopped listening on port 52948
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+_mozprofilezHI0hh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52999/devtools/browser/271a26e5-9dcb-4332-a00c-5ab5c1617379
+1649659470598	Marionette	INFO	Listening on port 53004
+1649659470831	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://diga.bfarm.de/assets/vendor-39be17416b06e39ce5998c081a6ba068.js, line 6045: unreachable code after return statement
+1649669602057	Marionette	INFO	Stopped listening on port 53004
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel error: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\gmult\AppData\Local\Temp\rust_mozprofilezHI0hh\protections.sqlite
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+ers\\gmult\\AppData\\Local\\Temp\\rust_mozprofileDzyCVJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53058/devtools/browser/9867c91a-e772-4c17-b24e-260639896cbb
+1649659497737	Marionette	INFO	Listening on port 53063
+1649659498088	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://diga.bfarm.de/assets/vendor-39be17416b06e39ce5998c081a6ba068.js, line 6045: unreachable code after return statement
+1649669598616	Marionette	INFO	Stopped listening on port 53063
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\gmult\AppData\Local\Temp\rust_mozprofileDzyCVJ\protections.sqlite
+or: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofilexN6ai7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53118/devtools/browser/15b75d32-2c61-486e-b260-71543e91dc19
+1649659531620	Marionette	INFO	Listening on port 53123
+1649659532155	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://diga.bfarm.de/assets/vendor-39be17416b06e39ce5998c081a6ba068.js, line 6045: unreachable code after return statement
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 770))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1649669610457	Marionette	INFO	Stopped listening on port 53123
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 27916, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: IOUtils: Shutting down and refusing additional I/O tasks
+on port 53195
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+_mozprofileQfhPjR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53247/devtools/browser/c63b3493-44d9-4648-a832-12823690cc4a
+1649659558332	Marionette	INFO	Listening on port 53252
+1649659558778	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://diga.bfarm.de/assets/vendor-39be17416b06e39ce5998c081a6ba068.js, line 6045: unreachable code after return statement
+1649669599943	Marionette	INFO	Stopped listening on port 53252
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+_mozprofilexZLgHn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53299/devtools/browser/e398fc3b-5053-4140-824d-f1a37a6c58c1
+1649659571713	Marionette	INFO	Listening on port 53304
+1649659571928	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://diga.bfarm.de/assets/vendor-39be17416b06e39ce5998c081a6ba068.js, line 6045: unreachable code after return statement
+1649669609361	Marionette	INFO	Stopped listening on port 53304
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+irefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53368" "-no-remote" "-profile" "C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofileO8ZFPi"
+1649659584182	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofileO8ZFPi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53368/devtools/browser/299880d2-0981-421d-b592-cc2e8e86ddfd
+1649659589558	Marionette	INFO	Listening on port 53373
+1649659589652	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://diga.bfarm.de/assets/vendor-39be17416b06e39ce5998c081a6ba068.js, line 6045: unreachable code after return statement
+1649669601867	Marionette	INFO	Stopped listening on port 53373
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel error: cannot send/recv
+
+[Parent 33588, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+9f-4b8e-987d-24470854917c
+1649659607664	Marionette	INFO	Listening on port 53451
+1649659607756	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://diga.bfarm.de/assets/vendor-39be17416b06e39ce5998c081a6ba068.js, line 6045: unreachable code after return statement
+1649669605900	Marionette	INFO	Stopped listening on port 53451
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+irefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53516" "-no-remote" "-profile" "C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofilectXnB4"
+1649659619314	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofilectXnB4\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+DevTools listening on ws://localhost:53516/devtools/browser/90747a89-4731-4bad-be73-93e2548ee8ff
+1649659627610	Marionette	INFO	Listening on port 53538
+1649659628108	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://diga.bfarm.de/assets/vendor-39be17416b06e39ce5998c081a6ba068.js, line 6045: unreachable code after return statement
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 770))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 770))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1649669605675	Marionette	INFO	Stopped listening on port 53538
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: IOUtils: Shutting down and refusing additional I/O tasks
+ette" "--remote-debugging-port" "53724" "-no-remote" "-profile" "C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofilew1sshh"
+1649659679177	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofilew1sshh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53724/devtools/browser/315748fe-793a-4ea6-bfd2-08bd74b9a30e
+1649659706974	Marionette	INFO	Listening on port 53743
+1649659707169	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://diga.bfarm.de/assets/vendor-39be17416b06e39ce5998c081a6ba068.js, line 6045: unreachable code after return statement
+1649669601322	Marionette	INFO	Stopped listening on port 53743
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PSessionStorageObserver::Msg_Observe) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+mozprofilejZ88yK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53843/devtools/browser/68b8e9b4-962c-4f14-9125-03b5a4b11dcd
+1649659748151	Marionette	INFO	Listening on port 53848
+1649659748362	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://diga.bfarm.de/assets/vendor-39be17416b06e39ce5998c081a6ba068.js, line 6045: unreachable code after return statement
+1649669600710	Marionette	INFO	Stopped listening on port 53848
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+ng region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofile1IxRLS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53960/devtools/browser/45e15d0d-5ddd-4dc8-987b-2731404bdd05
+1649659794445	Marionette	INFO	Listening on port 53967
+1649659794863	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://diga.bfarm.de/assets/vendor-39be17416b06e39ce5998c081a6ba068.js, line 6045: unreachable code after return statement
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 770))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1649669598795	Marionette	INFO	Stopped listening on port 53967
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1650275678802	geckodriver	INFO	Listening on 127.0.0.1:61821
+1650275681812	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61822" "-no-remote" "-profile" "C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofilexDUvU9"
+1650275682556	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofilexDUvU9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61822/devtools/browser/e231bf40-d18a-4132-bb76-2de508307c08
+1650275687253	Marionette	INFO	Listening on port 61827
+1650275687586	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650275697078	Marionette	INFO	Stopped listening on port 61827
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1650520693059	geckodriver	INFO	Listening on 127.0.0.1:56730
+1650520696164	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56731" "-no-remote" "-profile" "C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofileAMwELh"
+1650520696654	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofileAMwELh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56731/devtools/browser/0f33d38e-3f50-4adc-8f7a-0c9c0713fb80
+1650520699836	Marionette	INFO	Listening on port 56737
+1650520700368	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650520701299	Marionette	INFO	Stopped listening on port 56737
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1651918034233	geckodriver	INFO	Listening on 127.0.0.1:64700
+1651918037265	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64701" "-no-remote" "-profile" "C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofileCx6smr"
+1651918038205	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofileCx6smr\\search.json.mozlz4", (void 0)))
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1651918814684	geckodriver	INFO	Listening on 127.0.0.1:64815
+1651918817698	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64816" "-no-remote" "-profile" "C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofile8jCf1H"
+1651918818632	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofile8jCf1H\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64816/devtools/browser/63696797-e959-440d-b2fd-1cbe9adef896
+1651918822480	Marionette	INFO	Listening on port 64821
+1651918823000	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://diga.bfarm.de/assets/vendor-39be17416b06e39ce5998c081a6ba068.js, line 6045: unreachable code after return statement
+JavaScript warning: https://diga.bfarm.de/assets/vendor-39be17416b06e39ce5998c081a6ba068.js, line 6045: unreachable code after return statement
+JavaScript warning: https://diga.bfarm.de/assets/vendor-39be17416b06e39ce5998c081a6ba068.js, line 6045: unreachable code after return statement
+JavaScript warning: https://diga.bfarm.de/assets/vendor-39be17416b06e39ce5998c081a6ba068.js, line 6045: unreachable code after return statement
+1651922034272	Marionette	INFO	Stopped listening on port 64821
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1652089452621	geckodriver	INFO	Listening on 127.0.0.1:56218
+1652089455662	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56219" "-no-remote" "-profile" "C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofilePJSntx"
+1652089456218	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofilePJSntx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56219/devtools/browser/f8785605-6d2e-43d0-839d-8f252a478b05
+1652089458739	Marionette	INFO	Listening on port 56224
+1652089458873	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652089459259	Marionette	INFO	Stopped listening on port 56224
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1652089471847	geckodriver	INFO	Listening on 127.0.0.1:56253
+1652089474944	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56254" "-no-remote" "-profile" "C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofiletF8veq"
+1652089475402	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofiletF8veq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56254/devtools/browser/5c3515ff-1b2b-4621-9f1b-870485069f2c
+1652089477479	Marionette	INFO	Listening on port 56259
+1652089477632	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652089482048	Marionette	INFO	Stopped listening on port 56259
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1652090686787	geckodriver	INFO	Listening on 127.0.0.1:56577
+1652090689852	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56578" "-no-remote" "-profile" "C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofile5H4jTK"
+1652090690621	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofile5H4jTK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56578/devtools/browser/df340fd5-c2e5-4d35-989a-61125c06d9b4
+1652090694997	Marionette	INFO	Listening on port 56586
+1652090695174	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652090695415	Marionette	INFO	Stopped listening on port 56586
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1652090973129	geckodriver	INFO	Listening on 127.0.0.1:56698
+1652090976209	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56699" "-no-remote" "-profile" "C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofileDVnwqZ"
+1652090976743	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofileDVnwqZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56699/devtools/browser/86d1c192-fb85-4e7a-bcd9-2468d7f9bb00
+1652090979094	Marionette	INFO	Listening on port 56705
+1652090979385	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://diga.bfarm.de/assets/vendor-39be17416b06e39ce5998c081a6ba068.js, line 6045: unreachable code after return statement
+JavaScript warning: https://diga.bfarm.de/assets/vendor-39be17416b06e39ce5998c081a6ba068.js, line 6045: unreachable code after return statement
+JavaScript warning: https://diga.bfarm.de/assets/vendor-39be17416b06e39ce5998c081a6ba068.js, line 6045: unreachable code after return statement
+JavaScript warning: https://diga.bfarm.de/assets/vendor-39be17416b06e39ce5998c081a6ba068.js, line 6045: unreachable code after return statement
+1652091275848	Marionette	INFO	Stopped listening on port 56705
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1652091573824	geckodriver	INFO	Listening on 127.0.0.1:56963
+1652091576926	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56964" "-no-remote" "-profile" "C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofilettMAfD"
+1652091577407	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofilettMAfD\\search.json.mozlz4", (void 0)))
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/TerminatorTelemetry.jsm, line 71: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+1652091614986	geckodriver	INFO	Listening on 127.0.0.1:56995
+1652091618034	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56996" "-no-remote" "-profile" "C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofilegTEwnV"
+1652091618509	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofilegTEwnV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56996/devtools/browser/f3d6898d-beb4-4c46-a9ce-be0cf8b7e5b1
+1652091620770	Marionette	INFO	Listening on port 57001
+1652091621243	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652091708643	Marionette	INFO	Stopped listening on port 57001
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1652091859207	geckodriver	INFO	Listening on 127.0.0.1:57083
+1652091862313	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57084" "-no-remote" "-profile" "C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofile1POgb6"
+1652091862833	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofile1POgb6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57084/devtools/browser/0315567f-31e0-4935-9309-f58348289dde
+1652091865935	Marionette	INFO	Listening on port 57089
+1652091866035	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+
+###!!! [Child][PCompositorManagerChild] Error: Send(msgname=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][PCompositorManagerChild] Error: Send(msgname=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][PCompositorManagerChild] Error: Send(msgname=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][PCompositorManagerChild] Error: Send(msgname=PAPZ::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][PCompositorManagerChild] Error: SendAndWait(msgname=PCompositorBridge::Msg_WillClose) Channel error: cannot send/recv
+
+1964132	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652091968280	Marionette	INFO	Stopped listening on port 57157
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1652092129735	geckodriver	INFO	Listening on 127.0.0.1:57215
+1652092132854	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57216" "-no-remote" "-profile" "C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofileft5f4K"
+1652092133347	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofileft5f4K\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57216/devtools/browser/cfb7855c-9996-4541-94b0-e56d0c16c6f2
+1652092135680	Marionette	INFO	Listening on port 57224
+1652092136026	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://diga.bfarm.de/assets/vendor-39be17416b06e39ce5998c081a6ba068.js, line 6045: unreachable code after return statement
+JavaScript warning: https://diga.bfarm.de/assets/vendor-39be17416b06e39ce5998c081a6ba068.js, line 6045: unreachable code after return statement
+1652092908742	Marionette	INFO	Stopped listening on port 57224
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\gmult\AppData\Local\Temp\rust_mozprofileft5f4K\protections.sqlite
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofileocaRDm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57280/devtools/browser/b54112ca-e73f-4253-a952-e1276416649e
+1652092222042	Marionette	INFO	Listening on port 57285
+1652092222568	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://diga.bfarm.de/assets/vendor-39be17416b06e39ce5998c081a6ba068.js, line 6045: unreachable code after return statement
+1652092909122	Marionette	INFO	Stopped listening on port 57285
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\gmult\AppData\Local\Temp\rust_mozprofileocaRDm\protections.sqlite
+cal\\Temp\\rust_mozprofile6vga1X"
+1652092230003	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofile6vga1X\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57332/devtools/browser/2f5ece19-0a6d-4be0-9864-e9b62bb0cbd1
+1652092232388	Marionette	INFO	Listening on port 57341
+1652092232660	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://diga.bfarm.de/assets/vendor-39be17416b06e39ce5998c081a6ba068.js, line 6045: unreachable code after return statement
+1652092797265	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: timeout
+1652092908071	Marionette	INFO	Stopped listening on port 57341
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\gmult\AppData\Local\Temp\rust_mozprofile6vga1X\protections.sqlite
+profile5lUis4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57393/devtools/browser/b1746b16-5570-4cf9-8269-4b9cd6414696
+1652092242672	Marionette	INFO	Listening on port 57398
+1652092243014	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://diga.bfarm.de/assets/vendor-39be17416b06e39ce5998c081a6ba068.js, line 6045: unreachable code after return statement
+1652092908390	Marionette	INFO	Stopped listening on port 57398
+
+###!!! [Child][PContentChild] Error: Send(msgname=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\gmult\AppData\Local\Temp\rust_mozprofile5lUis4\protections.sqlite
+json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57444/devtools/browser/9c1cdc7a-8610-491a-9001-98fc6e284f12
+1652092253111	Marionette	INFO	Listening on port 57449
+1652092253593	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://diga.bfarm.de/assets/vendor-39be17416b06e39ce5998c081a6ba068.js, line 6045: unreachable code after return statement
+1652092902734	Marionette	INFO	Stopped listening on port 57449
+[Parent 25320, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\gmult\AppData\Local\Temp\rust_mozprofilea03Fcq\protections.sqlite
+ofileQOvRZm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57495/devtools/browser/4f9c2333-7646-4d66-bfe0-3c800d2ca947
+1652092263679	Marionette	INFO	Listening on port 57500
+1652092263733	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://diga.bfarm.de/assets/vendor-39be17416b06e39ce5998c081a6ba068.js, line 6045: unreachable code after return statement
+1652092908307	Marionette	INFO	Stopped listening on port 57500
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\gmult\AppData\Local\Temp\rust_mozprofileQOvRZm\protections.sqlite
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+tFoundError("Could not open the file at C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofilejo5e5t\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57546/devtools/browser/2529178e-adad-4512-ad1a-a8c72114b9ae
+1652092273916	Marionette	INFO	Listening on port 57551
+1652092274372	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://diga.bfarm.de/assets/vendor-39be17416b06e39ce5998c081a6ba068.js, line 6045: unreachable code after return statement
+1652092909475	Marionette	INFO	Stopped listening on port 57551
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\gmult\AppData\Local\Temp\rust_mozprofilejo5e5t\protections.sqlite
+ile exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofilelWi0KC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57597/devtools/browser/fce19aa9-097e-45e0-8311-95243eb871a1
+1652092284401	Marionette	INFO	Listening on port 57602
+1652092284561	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://diga.bfarm.de/assets/vendor-39be17416b06e39ce5998c081a6ba068.js, line 6045: unreachable code after return statement
+1652092884270	Marionette	INFO	Stopped listening on port 57602
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\gmult\AppData\Local\Temp\rust_mozprofilelWi0KC\protections.sqlite
+ile exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofile50kGRg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57651/devtools/browser/50104022-d912-4451-bd19-ee87639c81a7
+1652092296271	Marionette	INFO	Listening on port 57657
+1652092296630	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://diga.bfarm.de/assets/vendor-39be17416b06e39ce5998c081a6ba068.js, line 6045: unreachable code after return statement
+1652092888573	Marionette	INFO	Stopped listening on port 57657
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_ReinitRendering) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\gmult\AppData\Local\Temp\rust_mozprofile50kGRg\protections.sqlite
+alhost:57712/devtools/browser/f698910b-29ed-4aea-9309-5ac7d502752f
+1652092307648	Marionette	INFO	Listening on port 57720
+1652092308358	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://diga.bfarm.de/assets/vendor-39be17416b06e39ce5998c081a6ba068.js, line 6045: unreachable code after return statement
+1652092898603	Marionette	INFO	Stopped listening on port 57720
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 996: Error: Connection is not open.
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofileQHv3z9"
+1652092320775	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofileQHv3z9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57767/devtools/browser/66197c96-2db2-4066-abd6-2c573c128460
+1652092325332	Marionette	INFO	Listening on port 57777
+1652092325794	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://diga.bfarm.de/assets/vendor-39be17416b06e39ce5998c081a6ba068.js, line 6045: unreachable code after return statement
+1652092892390	Marionette	INFO	Stopped listening on port 57777
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+irefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57833" "-no-remote" "-profile" "C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofiletkMxOq"
+1652092333594	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofiletkMxOq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57833/devtools/browser/672271c7-29a8-4279-adb2-27e3774b169b
+1652092336857	Marionette	INFO	Listening on port 57838
+1652092338971	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://diga.bfarm.de/assets/vendor-39be17416b06e39ce5998c081a6ba068.js, line 6045: unreachable code after return statement
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"SessionStore: flushing all windows","state":{"total":1,"current":0},"filename":"resource:///modules/sessionstore/SessionStore.jsm","lineNumber":2107,"stack":["resource:///modules/sessionstore/SessionStore.jsm:ssi_onQuitApplicationGranted:2107","resource:///modules/sessionstore/SessionStore.jsm:ssi_observe:1023"]}] Barrier: quit-application-granted
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel error: cannot send/recv
+
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2119: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1652092909174	Marionette	INFO	Stopped listening on port 57838
+ts/vendor-39be17416b06e39ce5998c081a6ba068.js, line 6045: unreachable code after return statement
+1652092899498	Marionette	INFO	Stopped listening on port 57897
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_CommitBrowsingContextTransaction) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PDocumentChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PDocumentChannel::Msg___delete__) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PExtensions::Msg_StateChange) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\gmult\AppData\Local\Temp\rust_mozprofilewwP1rS\protections.sqlite
+sm:435:16) JS Stack trace: fail@ProductAddonChecker.jsm:435:16
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_ReinitRendering) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\gmult\AppData\Local\Temp\rust_mozprofiletIWLE1\protections.sqlite
+416b06e39ce5998c081a6ba068.js, line 6045: unreachable code after return statement
+1652092899081	Marionette	INFO	Stopped listening on port 58009
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1652092904464	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\gmult\AppData\Local\Temp\rust_mozprofile6cWFF6\protections.sqlite
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+endor-39be17416b06e39ce5998c081a6ba068.js, line 6045: unreachable code after return statement
+1652092899368	Marionette	INFO	Stopped listening on port 58063
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\gmult\AppData\Local\Temp\rust_mozprofile95Nv5p\protections.sqlite
+
+###!!! [Child][PContentChild] Error: Send(msgname=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+347
+1652092396308	Marionette	INFO	Listening on port 58126
+1652092396717	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://diga.bfarm.de/assets/vendor-39be17416b06e39ce5998c081a6ba068.js, line 6045: unreachable code after return statement
+1652092899408	Marionette	INFO	Stopped listening on port 58126
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\gmult\AppData\Local\Temp\rust_mozprofilempNd6g\protections.sqlite
+calhost:58174/devtools/browser/07716f5b-8963-4b46-9d12-342bb95314ed
+1652092407319	Marionette	INFO	Listening on port 58179
+1652092407483	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://diga.bfarm.de/assets/vendor-39be17416b06e39ce5998c081a6ba068.js, line 6045: unreachable code after return statement
+1652092899080	Marionette	INFO	Stopped listening on port 58179
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\gmult\AppData\Local\Temp\rust_mozprofileW9HwqN\protections.sqlite
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+tFoundError("Could not open the file at C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofileX3XmHL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58228/devtools/browser/d7b191aa-0f25-4f49-b22a-f6bd0492060f
+1652092418746	Marionette	INFO	Listening on port 58233
+1652092419096	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://diga.bfarm.de/assets/vendor-39be17416b06e39ce5998c081a6ba068.js, line 6045: unreachable code after return statement
+1652092901074	Marionette	INFO	Stopped listening on port 58233
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\gmult\AppData\Local\Temp\rust_mozprofileX3XmHL\protections.sqlite
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+tFoundError("Could not open the file at C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofileCWyZfu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58282/devtools/browser/cdbdc689-6027-4663-a8b0-61dbf9ed74e7
+1652092433275	Marionette	INFO	Listening on port 58287
+1652092433874	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://diga.bfarm.de/assets/vendor-39be17416b06e39ce5998c081a6ba068.js, line 6045: unreachable code after return statement
+1652092899304	Marionette	INFO	Stopped listening on port 58287
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  security-state/intermediates Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  Message: TypeError: NetworkError: Network request failed
+  Stack:
+    fetch/</request.onerror@resource://services-settings/Utils.jsm:153:26
+observe@resource://gre/modules/AsyncShutdown.jsm:575:16
+
+console.warn: services.settings: security-state/onecrl sync interrupted by shutdown
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\gmult\AppData\Local\Temp\rust_mozprofileCWyZfu\protections.sqlite
+ecurity-state/intermediates Signature failed  Error: Shutdown, aborting read-only worker requests.
+console.error: services.settings: 
+  Message: Error: Shutdown, aborting read-only worker requests.
+  Stack:
+    _abortCancelableRequests@resource://services-settings/RemoteSettingsWorker.jsm:143:19
+@resource://services-settings/RemoteSettingsWorker.jsm:219:28
+trigger@resource://gre/modules/AsyncShutdown.jsm:747:23
+_wait@resource://gre/modules/AsyncShutdown.jsm:899:15
+wait@resource://gre/modules/AsyncShutdown.jsm:880:34
+observe@resource://gre/modules/AsyncShutdown.jsm:557:10
+
+console.warn: services.settings: security-state/onecrl sync interrupted by shutdown
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_ReinitRendering) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel error: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\gmult\AppData\Local\Temp\rust_mozprofile4H55ah\protections.sqlite
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+arn: services.settings: main/search-telemetry-v2 sync interrupted by shutdown
+console.warn: services.settings: main/search-config sync interrupted by shutdown
+console.warn: services.settings: security-state/cert-revocations sync interrupted by shutdown
+console.warn: services.settings: security-state/intermediates sync interrupted by shutdown
+console.warn: services.settings: security-state/onecrl sync interrupted by shutdown
+1652092891632	Marionette	INFO	Stopped listening on port 58399
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_ReinitRendering) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\gmult\AppData\Local\Temp\rust_mozprofileqpzee8\protections.sqlite
+terrupted by shutdown
+console.warn: services.settings: main/password-recipes sync interrupted by shutdown
+console.warn: services.settings: main/query-stripping sync interrupted by shutdown
+console.warn: services.settings: main/addons-manager-settings sync interrupted by shutdown
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\gmult\AppData\Local\Temp\rust_mozprofilexahsI2\protections.sqlite
+le code after return statement
+1652092899121	Marionette	INFO	Stopped listening on port 58509
+[Parent 37484, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.warn: services.settings: blocklists/addons-bloomfilters sync interrupted by shutdown
+console.warn: services.settings: blocklists/gfx sync interrupted by shutdown
+console.warn: services.settings: main/normandy-recipes-capabilities sync interrupted by shutdown
+console.warn: services.settings: main/devtools-compatibility-browsers sync interrupted by shutdown
+console.warn: services.settings: main/doh-config sync interrupted by shutdown
+console.warn: services.settings: main/hijack-blocklists sync interrupted by shutdown
+console.warn: services.settings: main/url-classifier-skip-urls sync interrupted by shutdown
+console.warn: services.settings: main/pioneer-study-addons-v1 sync interrupted by shutdown
+console.warn: services.settings: main/fxmonitor-breaches sync interrupted by shutdown
+console.warn: services.settings: main/password-recipes sync interrupted by shutdown
+console.warn: services.settings: main/query-stripping sync interrupted by shutdown
+console.warn: services.settings: main/addons-manager-settings sync interrupted by shutdown
+console.warn: services.settings: main/websites-with-shared-credential-backends sync interrupted by shutdown
+console.warn:
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\gmult\AppData\Local\Temp\rust_mozprofile4r0itQ\protections.sqlite
+s: main/doh-providers sync interrupted by shutdown
+console.warn: services.settings: main/search-telemetry-v2 sync interrupted by shutdown
+console.warn: services.settings: main/search-config sync interrupted by shutdown
+console.warn: services.settings: securit1652092910327	Marionette	INFO	Stopped listening on port 58636
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\gmult\AppData\Local\Temp\rust_mozprofilepg3a35\protections.sqlite
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+cal\Temp\rust_mozprofileVVFDHO\protections.sqlite
+1652093623378	geckodriver	INFO	Listening on 127.0.0.1:49911
+1652093626407	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49912" "-no-remote" "-profile" "C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofileKBGPDR"
+1652093627376	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofileKBGPDR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49912/devtools/browser/6f2590f9-0303-497a-83fc-1089947ffad6
+1652093630523	Marionette	INFO	Listening on port 49917
+1652093630622	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://diga.bfarm.de/assets/vendor-39be17416b06e39ce5998c081a6ba068.js, line 6045: unreachable code after return statement
+1652093722203	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/NHksFvpwOA_e7xJte31GpOZsvVxHGuXQeGuPktjycGc.js line 1 > eval line 2176 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/NHksFvpwOA_e7xJte31GpOZsvVxHGuXQeGuPktjycGc.js line 1 > eval line 2285 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/NHksFvpwOA_e7xJte31GpOZsvVxHGuXQeGuPktjycGc.js line 1 > eval line 3488 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/NHksFvpwOA_e7xJte31GpOZsvVxHGuXQeGuPktjycGc.js line 1 > eval line 2852 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://diga.bfarm.de/assets/vendor-39be17416b06e39ce5998c081a6ba068.js, line 6045: unreachable code after return statement
+1652094240814	Marionette	INFO	Stopped listening on port 49917
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofileMoRVtu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50031/devtools/browser/c9c20632-8df3-4c89-b4a9-b64cd5ea6b7d
+1652093876241	Marionette	INFO	Listening on port 50036
+1652093876565	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://diga.bfarm.de/assets/vendor-39be17416b06e39ce5998c081a6ba068.js, line 6045: unreachable code after return statement
+1652094236117	Marionette	INFO	Stopped listening on port 50036
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofileNEl8ip\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50082/devtools/browser/df177dfe-2858-41d4-a98b-d5e525b89e0b
+1652093887472	Marionette	INFO	Listening on port 50087
+1652093887781	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://diga.bfarm.de/assets/vendor-39be17416b06e39ce5998c081a6ba068.js, line 6045: unreachable code after return statement
+1652094235501	Marionette	INFO	Stopped listening on port 50087
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "50135" "-no-remote" "-profile" "C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofileMVrr2m"
+1652093895286	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofileMVrr2m\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50135/devtools/browser/8e4bcd2a-e8ce-46b7-97ef-a2547d89e8b6
+1652093897859	Marionette	INFO	Listening on port 50140
+1652093897996	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://diga.bfarm.de/assets/vendor-39be17416b06e39ce5998c081a6ba068.js, line 6045: unreachable code after return statement
+1652094233736	Marionette	INFO	Stopped listening on port 50140
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1652094271644	geckodriver	INFO	Listening on 127.0.0.1:50419
+1652094274730	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50420" "-no-remote" "-profile" "C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofilezRbYci"
+1652094275179	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofilezRbYci\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50420/devtools/browser/3a1b33e6-8d87-4986-b10b-247fe1bff66e
+1652094277233	Marionette	INFO	Listening on port 50425
+1652094277414	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://diga.bfarm.de/assets/vendor-39be17416b06e39ce5998c081a6ba068.js, line 6045: unreachable code after return statement
+1652095007297	Marionette	INFO	Stopped listening on port 50425
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "50514" "-no-remote" "-profile" "C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofiletpWOVK"
+1652094418358	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofiletpWOVK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50514/devtools/browser/3f7ec659-63f4-4c98-8290-8fae62da1f2f
+1652094420381	Marionette	INFO	Listening on port 50519
+1652094420588	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://diga.bfarm.de/assets/vendor-39be17416b06e39ce5998c081a6ba068.js, line 6045: unreachable code after return statement
+1652095011611	Marionette	INFO	Stopped listening on port 50519
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "50565" "-no-remote" "-profile" "C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofiletcRTaL"
+1652094427970	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofiletcRTaL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50565/devtools/browser/052bfa8d-781b-44e1-91e1-fcbeef8a3b2b
+1652094429908	Marionette	INFO	Listening on port 50570
+1652094430206	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://diga.bfarm.de/assets/vendor-39be17416b06e39ce5998c081a6ba068.js, line 6045: unreachable code after return statement
+1652095010911	Marionette	INFO	Stopped listening on port 50570
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "50618" "-no-remote" "-profile" "C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofileSlyIW0"
+1652094437620	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofileSlyIW0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50618/devtools/browser/e69f651d-b8ec-4146-b027-5e3842e6dca5
+1652094439601	Marionette	INFO	Listening on port 50623
+1652094439846	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://diga.bfarm.de/assets/vendor-39be17416b06e39ce5998c081a6ba068.js, line 6045: unreachable code after return statement
+1652095010087	Marionette	INFO	Stopped listening on port 50623
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "50888" "-no-remote" "-profile" "C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofileJPiMTZ"
+1652094964694	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofileJPiMTZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50888/devtools/browser/af64c816-bcba-48e2-ad12-f7c92b70e199
+1652094966911	Marionette	INFO	Listening on port 50893
+1652094967349	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://diga.bfarm.de/assets/vendor-39be17416b06e39ce5998c081a6ba068.js, line 6045: unreachable code after return statement
+1652095009462	Marionette	INFO	Stopped listening on port 50893
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "50939" "-no-remote" "-profile" "C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofilejbOP3j"
+1652094974773	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofilejbOP3j\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50939/devtools/browser/7f73c769-98be-4c2f-83f2-cd9e95b40809
+1652094976947	Marionette	INFO	Listening on port 50944
+1652094977473	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://diga.bfarm.de/assets/vendor-39be17416b06e39ce5998c081a6ba068.js, line 6045: unreachable code after return statement
+1652095008884	Marionette	INFO	Stopped listening on port 50944
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "50994" "-no-remote" "-profile" "C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofilePejaWF"
+1652094984846	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofilePejaWF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50994/devtools/browser/6554666d-cb96-4e71-8ae8-22316490ffca
+1652094987226	Marionette	INFO	Listening on port 50999
+1652094987544	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://diga.bfarm.de/assets/vendor-39be17416b06e39ce5998c081a6ba068.js, line 6045: unreachable code after return statement
+1652095008199	Marionette	INFO	Stopped listening on port 50999
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1652100038897	geckodriver	INFO	Listening on 127.0.0.1:52612
+1652100041978	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52613" "-no-remote" "-profile" "C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofileKRxMgg"
+1652100042474	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofileKRxMgg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52613/devtools/browser/63ee82e1-faf9-4594-940f-fb07dcfaea3c
+1652100044609	Marionette	INFO	Listening on port 52619
+1652100044660	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://diga.bfarm.de/assets/vendor-39be17416b06e39ce5998c081a6ba068.js, line 6045: unreachable code after return statement
+1652101127670	Marionette	INFO	Stopped listening on port 52619
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+t C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofileFgmIyL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52668/devtools/browser/58d8a0ff-7ecd-4677-9bdf-32d083760697
+1652100080465	Marionette	INFO	Listening on port 52673
+1652100080519	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://diga.bfarm.de/assets/vendor-39be17416b06e39ce5998c081a6ba068.js, line 6045: unreachable code after return statement
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_FlushTabState) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PBrowser::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_CommitBrowsingContextTransaction) Channel error: cannot send/recv
+
+
+###!!! [Child][PCompositorManagerChild] Error: Send(msgname=PWebRenderBridge::Msg_ReleaseCompositable) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PBrowser::Msg_UpdateEffects) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_FlushTabState) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PBrowser::Msg_StopIMEStateManagement) C1652101128198	Marionette	INFO	Stopped listening on port 52724
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+gerChild] Error: Send(msgname=PWebRenderBridge::Msg_Shutdown) Channel error: cannot send/recv
+
+
+###!!! [Child][PCompositorManagerChild] Error: Send(msgname=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][PCompositorManagerChild] Error: Send(msgname=PAPZ::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][PCompositorManagerChild] Error: SendAndWait(msgname=PCompositorBridge::Msg_WillClose) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage)1652101128219	Marionette	INFO	Stopped listening on port 52833
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+rror: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: can[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_FlushTabState) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PBrowser::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_CommitBrowsingContextTransaction) Channel error: cannot send/recv
+
+
+###!!! [Child][PCompositorManagerChild] Error: Send(msgname=PWebRenderBridge::Msg_ReleaseCompositable) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PBrowser::Msg_UpdateEffects) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_FlushTabState) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PBrowser::Msg_StopIMEStateManagement) C1652101127646	Marionette	INFO	Stopped listening on port 52935
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\gmult\AppData\Local\Temp\rust_mozprofileOASylp\protections.sqlite
+cv
+
+
+###!!! [Child][PCompositorManagerChild] Error: Send(msgname=PWebRenderBridge::Msg_Shutdown) Channel error: cannot send/recv
+
+
+###!!! [Child][PCompositorManagerChild] Error: Send(msgname=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][PCompositorManagerChild] Error: Send(msgname=PAPZ::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][PCompositorManagerChild] Error: SendAndWait(msgname=PCompositorBridge::Msg_WillClose) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_FlushTabState) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PBrowser::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_CommitBrowsingContextTransaction) Channel error: cannot send/recv
+
+) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage)1652101127670	Marionette	INFO	Stopped listening on port 53043
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\gmult\AppData\Local\Temp\rust_mozprofileRiV15y\protections.sqlite
+
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: can[GFX1-]: Receive IPC close with reason=A[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+bnormalShutdown
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_FlushTabState) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PBrowser::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_CommitBrowsingContextTransaction) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+1652101127651	Marionette	INFO	Stopped listening on port 53152
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\gmult\AppData\Local\Temp\rust_mozprofileUA8dt0\protections.sqlite
+me=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Child][PGPUChild] Error: Send(msgname=PGPU::Msg_RemoveLayerTreeIdMapping) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel error: cannot send/recv
+
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2119: TypeError: subject.QueryInterface is not [GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_FlushTabState) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PBrowser::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_CommitBrowsingContextTransaction) Channel error: cannot send/recv
+
+
+###!!! [Child][PCompositorManagerChild] Error: Send(msgname=PWebRenderBridge::Msg_ReleaseCompositable) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PBrowser::Msg_UpdateEffects) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_FlushTabState) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PBrowser::Msg_StopIMEStateManagement) C1652101128586	Marionette	INFO	Stopped listening on port 53260
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+e::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][PCompositorManagerChild] Error: Send(msgname=PAPZ::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][PCompositorManagerChild] Error: SendAndWait(msgname=PCompositorBridge::Msg_WillClose) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Ms[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_FlushTabState) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PBrowser::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_CommitBrowsingContextTransaction) Channel error: cannot send/recv
+
+
+###!!! [Child][PCompositorManagerChild] Error: Send(msgname=PWebRenderBridge::Msg_ReleaseCompositable) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PBrowser::Msg_UpdateEffects) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_FlushTabState) Channel1652101128198	Marionette	INFO	Stopped listening on port 53370
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+r: Send(msgname=PContent::Msg_DiscardBrowsingContext) Channel error: cannot send/recv
+
+
+###!!! [Child][PCompositorManagerChild] Error: Send(msgname=PWebRenderBridge::Msg_Shutdown) Channel error: cannot send/recv
+
+
+###!!! [Child][PCompositorManagerChild] Error: Send(msgname=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][PCompositorManagerChild] Error: Send(msgname=PAPZ::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][PCompositorManagerChild] Error: SendAndWait(msgname=PCompositorBridge::Msg_WillClose) Channel error: cannot send/recv
+
+end(msgname=PContent::Msg_AsyncMessage) Channel error: can[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_FlushTabState) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PBrowser::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_CommitBrowsingContextTransaction) Channel error: cannot send/recv
+
+
+###!!! [Child][PCompositorManagerChild] Error: Send(msgname=PWebRenderBridge::Msg_ReleaseCompositable) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PBrowser::Msg_UpdateEffects) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_FlushTabState) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PBrowser::Msg_StopIMEStateManagement) C1652101128598	Marionette	INFO	Stopped listening on port 53478
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+e::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][PCompositorManagerChild] Error: Send(msgname=PAPZ::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][PCompositorManagerChild] Error: SendAndWait(msgname=PCompositorBridge::Msg_WillClose) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_FlushTabState) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PBrowser::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_CommitBrowsingContextTransaction) Channel error: cannot send/recv
+
+
+###!!! [Child][PCompositorManagerChild] Error: Send(msgname=PWebRenderBridge::Msg_ReleaseCompositable) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PBrowser::Msg_UpdateEffects) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_FlushTabState) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PBrowser::Msg_StopIMEStateManagement) C1652101127645	Marionette	INFO	Stopped listening on port 53591
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\gmult\AppData\Local\Temp\rust_mozprofileRcapZL\protections.sqlite
+
+
+###!!! [Child][PCompositorManagerChild] Error: Send(msgname=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][PCompositorManagerChild] Error: Send(msgname=PAPZ::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][PCompositorManagerChild] Error: SendAndWait(msgname=PCompositorBridge::Msg_WillClose) Channel error: cannot send/recv
+
+r: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: can1652101127641	Marionette	INFO	Stopped listening on port 53648
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\gmult\AppData\Local\Temp\rust_mozprofilekmtvwx\protections.sqlite
+][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+1652101127088	Marionette	INFO	Stopped listening on port 53702
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+or: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Child][PGPUChild] Error: Send(msgname=PGPU::Msg_RemoveLayerTreeIdMapping) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel error: cannot send/recv
+
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2119: TypeError: subject.QueryInterface is not 1652101105645	Marionette	INFO	Stopped listening on port 53756
+TDOWN is set, shutting down
+1652101081074	Marionette	INFO	Stopped listening on port 53424
+Exiting due to channel error.
+te-debugging-port" "53802" "-no-remote" "-profile" "C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofileDgvS6o"
+1652100333857	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofileDgvS6o\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53802/devtools/browser/7f6fbb22-12b3-42c3-a828-f9642695790c
+1652100336653	Marionette	INFO	Listening on port 53808
+1652100337088	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://diga.bfarm.de/assets/vendor-39be17416b06e39ce5998c081a6ba068.js, line 6045: unreachable code after return statement
+1652101128185	Marionette	INFO	Stopped listening on port 53808
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+[Parent 33540, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 33540, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+://gre/modules/Region.jsm", 419))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofileV9ZtdT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53856/devtools/browser/dafaa1d0-ed16-46ea-972e-e4f7d59b2245
+1652100354068	Marionette	INFO	Listening on port 53864
+1652100354294	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://diga.bfarm.de/assets/vendor-39be17416b06e39ce5998c081a6ba068.js, line 6045: unreachable code after return statement
+1652101127639	Marionette	INFO	Stopped listening on port 53864
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\gmult\AppData\Local\Temp\rust_mozprofileV9ZtdT\protections.sqlite
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+tFoundError("Could not open the file at C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofileQpp82q\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53915/devtools/browser/45abbbfd-5b85-415c-a44e-07e9b05e061e
+1652100366007	Marionette	INFO	Listening on port 53920
+1652100366046	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://diga.bfarm.de/assets/vendor-39be17416b06e39ce5998c081a6ba068.js, line 6045: unreachable code after return statement
+1652101123499	Marionette	INFO	Stopped listening on port 53920
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "53970" "-no-remote" "-profile" "C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofilewKiWq5"
+1652100376743	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofilewKiWq5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53970/devtools/browser/6df88312-41f8-4a57-a29b-65e25d542888
+1652100378894	Marionette	INFO	Listening on port 53975
+1652100379018	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://diga.bfarm.de/assets/vendor-39be17416b06e39ce5998c081a6ba068.js, line 6045: unreachable code after return statement
+1652101128251	Marionette	INFO	Stopped listening on port 53975
+[Parent 35660, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+ew NotFoundError("Could not open the file at C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofileehcPa2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54027/devtools/browser/9a4eb8ef-056d-464d-a37a-f9223fe12e57
+1652100393799	Marionette	INFO	Listening on port 54037
+1652100394156	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://diga.bfarm.de/assets/vendor-39be17416b06e39ce5998c081a6ba068.js, line 6045: unreachable code after return statement
+1652101123580	Marionette	INFO	Stopped listening on port 54037
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "54091" "-no-remote" "-profile" "C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofilewHfXAt"
+1652100407094	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofilewHfXAt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54091/devtools/browser/ce967242-e98e-4964-994d-e0c98ab4c62f
+1652100413969	Marionette	INFO	Listening on port 54102
+1652100414473	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://diga.bfarm.de/assets/vendor-39be17416b06e39ce5998c081a6ba068.js, line 6045: unreachable code after return statement
+1652101115193	Marionette	INFO	Stopped listening on port 54102
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_SuspendInputEventQueue) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_FlushInputEventQueue) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_ResumeInputEventQueue) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_ShutdownConfirmedHP) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_Shutdown) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+ertificate errors will be ignored for this session
+JavaScript warning: https://diga.bfarm.de/assets/vendor-39be17416b06e39ce5998c081a6ba068.js, line 6045: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+1652101113458	Marionette	INFO	Stopped listening on port 54181
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "54235" "-no-remote" "-profile" "C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofile6B5lJG"
+1652100441119	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofile6B5lJG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54235/devtools/browser/3ae23763-ba05-4f0c-9c5a-15cda9c3ef99
+1652100446796	Marionette	INFO	Listening on port 54255
+1652100447050	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://diga.bfarm.de/assets/vendor-39be17416b06e39ce5998c081a6ba068.js, line 6045: unreachable code after return statement
+1652101113272	Marionette	INFO	Stopped listening on port 54255
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "54306" "-no-remote" "-profile" "C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofile2rDxuD"
+1652100457439	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gmult\\AppData\\Local\\Temp\\rust_mozprofile2rDxuD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54306/devtools/browser/1094cbcd-f9f4-4a34-ab64-ad5bbd84358b
+1652100462597	Marionette	INFO	Listening on port 54311
+1652100462671	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://diga.bfarm.de/assets/vendor-39be17416b06e39ce5998c081a6ba068.js, line 6045: unreachable code after return statement
+[GFX1-]: Killing GPU process due to IPC reply timeout
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+
+###!!! [Child][PCompositorManagerChild] Error: RunMessage(msgname=PCompositorWidget::Msg_ObserveVsync) Channel error: cannot send/recv
+
+1652101113372	Marionette	INFO	Stopped listening on port 54311
+
+###!!! [Child][PGPUChild] Error: Send(msgname=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Child][PGPUChild] Error: Send(msgname=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Child][PGPUChild] Error: Send(msgname=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Child][PGPUChild] Error: Send(msgname=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Child][PGPUChild] Error: Send(msgname=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Child][PGPUChild] Error: Send(msgname=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Child][PGPUChild] Error: Send(msgname=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Child][PGPUChild] Error: Send(msgname=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Child][PGPUChild] Error: Send(msgname=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Child][PGPUChild] Error: Send(msgname=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Child][PGPUChild] Error: Send(msgname=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Child][PGPUChild] Error: Send(msgname=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Child][PGPUChild] Error: Send(msgname=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Child][PGPUChild] Error: Send(msgname=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Child][PGPUChild] Error: Send(msgname=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Child][PGPUChild] Error: Send(msgname=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Child][PGPUChild] Error: Send(msgname=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Child][PGPUChild] Error: Send(msgname=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Child][PGPUChild] Error: Send(msgname=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Child][PGPUChild] Error: Send(msgname=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Child][PGPUChild] Error: Send(msgname=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Child][PGPUChild] Error: Send(msgname=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Child][PGPUChild] Error: Send(msgname=PGPU::MsgA content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Child][PGPUChild] Error: Send(msgname=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Child][PGPUChild] Error: Send(msgname=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Child][PCompositorManagerChild] Error: RunMessage(msgname=PCompositorWidget::Msg_UnobserveVsync) Channel error: cannot send/recv
+
+
+###!!! [Child][PGPUChild] Error: Send(msgname=PGPU::Msg_RemoveLayerTreeIdMapping) Channel error: cannot send/recv
+
+
+###!!! [Child][PGPUChild] Error: RunMessage(msgname=PGPU::Msg_AccumulateChildHistograms) Channel error: cannot send/recv
+
+
+###!!! [Child][PGPUChild] Error: RunMessage(msgname=PGPU::Msg_RecordDiscardedData) Channel error: cannot send/recv
+
+
+###!!! [Child][PGPUChild] Error: RunMessage(msgname=PGPU::Msg_AccumulateChildHistograms) Channel error: cannot send/recv
+
+
+###!!! [Child][PGPUChild] Error: RunMessage(msgname=PGPU::Msg_RecordDiscardedData) Channel error: cannot send/recv
+
+[Parent 18472, Main Thread] WARNING: base::KillProcess refusing to terminate process handle 0: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:405
+
+###!!! [Child][PCompositorManagerChild] Error: Send(msgname=PWebRenderBridge::Msg_Shutdown) Channel error: cannot send/recv
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
